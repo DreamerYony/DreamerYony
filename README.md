@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @DreamerYony
 - 🍎 I'm known as @DreamerYony on GitHub, as I aspire to live a life filled with dreams of a better future.
 - 🍊 I graduated from Seoul National University and hold a Ph.D. degree.
-- 🍋 After completing my Ph.D. program, I began learning R and Python, 
+- 🍋 After starting my Ph.D. program, I began learning R and Python, 
 and gradually became fascinated by data science and NLP.
 - 🥬 I'm always open to collaboration and eager to tackle new challenges in data science and NLP. 
 - 💙 I want to contribute my skills to create a better future. 
